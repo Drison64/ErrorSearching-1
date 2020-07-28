@@ -1,0 +1,7 @@
+name: ErrorSearching 1
+version: ${project.version}
+main: me.drison64.errorsearching1.Main
+api-version: 1.16
+commands:
+  pico:
+    description: Adds player to a NAUGHTY PLAYERS LIST OF SANTA!
